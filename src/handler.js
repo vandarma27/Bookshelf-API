@@ -79,5 +79,4 @@ const addBookHandler = (request, h) => {
   return response;
 };
 
-console.log(addBookHandler());
 module.exports = { addBookHandler };
