@@ -1,0 +1,19 @@
+{
+  "name": "bookshelf-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandarma27/Bookshelf-API.git"
+  },
+  "author": "VanDarma27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vandarma27/Bookshelf-API/issues"
+  },
+  "homepage": "https://github.com/vandarma27/Bookshelf-API#readme"
+}
