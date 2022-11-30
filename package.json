@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vandarma27/Bookshelf-API/issues"
   },
-  "homepage": "https://github.com/vandarma27/Bookshelf-API#readme"
+  "homepage": "https://github.com/vandarma27/Bookshelf-API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
