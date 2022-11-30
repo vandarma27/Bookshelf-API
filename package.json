@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vandarma27/Bookshelf-API#readme",
   "devDependencies": {
+    "eslint": "^8.28.0",
     "nodemon": "^2.0.20"
   }
 }
